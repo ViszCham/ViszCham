@@ -1,4 +1,4 @@
-# Haluka Hilono / 廣野悠歌
+# Yuka Hilono / 廣野悠歌
 
 **作曲家 / Composer**
 
