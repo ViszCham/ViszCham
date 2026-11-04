@@ -12,13 +12,15 @@
 
 **2015.09.02｜「Sunday Morning」　作曲**
 
-あたわめ名義です。セガ『初音ミク Project mirai』シリーズのルームBGMで、ボックスセット『初音ミク Project mirai こんぷり〜と』のDISC 5に収録されています。
+あたわめ名義
+セガ『初音ミク Project mirai』シリーズのルームBGMで、ボックスセット『初音ミク Project mirai こんぷり〜と』のDISC 5に収録
 
 [収録アルバム・トラックリスト](https://store.umaa.net/items/1596946) · [発売情報（セガ公式）](https://info.miku.sega.jp/4022)
 
 **2017.05.30｜「ピンキーリングに花飾り」　作曲・編曲**
 
-紫合ユウ名義（クレジット表記：Y0u Yuda）です。さくらシンデレラのシングル『さくらの木の下で』に収録されています。
+紫合ユウ名義（クレジット表記：Y0u Yuda）
+さくらシンデレラのシングル『さくらの木の下で』に収録
 
 [制作クレジット（BeetOnics）](http://beetonics.co.jp/tracks/706) · [発売情報・収録曲（Billboard JAPAN）](https://www.billboard-japan.com/goods/detail/559015)
 
