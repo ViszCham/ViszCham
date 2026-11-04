@@ -1,51 +1,53 @@
-# Yuka Hilono / 廣野悠歌
+# 廣野悠歌 / Yuka Hilono
 
 **作曲家 / Composer**
 
-作曲家として、楽曲提供やゲーム・映像作品の音楽制作を手がけています。
+ゲームや映像作品の音楽制作、楽曲提供を手がけています。
 
-ソフトウェア開発ではRustとPythonを学習中です。LLMの支援を受けながら、開発や検証を支えるツールを作っています。
+作品や時期に応じて、あたわめ（Atawame）、紫合ユウ、Youta Hilono（RiriMoo）の名義で制作しています。
 
-## 音楽の制作実績
+## 音楽
 
-### SEGA『初音ミク Project mirai』シリーズ
+記載の日付は収録作品の発売日、または映画本編の公開日です。
 
-**「Sunday Morning」— 作曲**
+**2015.09.02｜「Sunday Morning」　作曲**
 
-あたわめ（Atawame）名義で作曲しました。ゲーム内のルームBGMとして収録されています。
+あたわめ名義です。セガ『初音ミク Project mirai』シリーズのルームBGMで、ボックスセット『初音ミク Project mirai こんぷり〜と』のDISC 5に収録されています。
 
-[収録アルバム](https://store.umaa.net/items/1596946)
+[収録アルバム・トラックリスト](https://store.umaa.net/items/1596946) · [発売情報（セガ公式）](https://info.miku.sega.jp/4022)
 
-### 1931女子偶像組合（1931 Girls Group）
+**2017.05.30｜「ピンキーリングに花飾り」　作曲・編曲**
 
-**「逆風飛翔」（原題：逆风飞翔）— 作曲・編曲**
+紫合ユウ名義（クレジット表記：Y0u Yuda）です。さくらシンデレラのシングル『さくらの木の下で』に収録されています。
 
-紫合ユウ名義で、中国の女性アイドルグループ1931に楽曲を提供しました。
+[制作クレジット（BeetOnics）](http://beetonics.co.jp/tracks/706) · [発売情報・収録曲（Billboard JAPAN）](https://www.billboard-japan.com/goods/detail/559015)
 
-[楽曲情報・クレジット](https://www.kugou.com/mixsong/14rxdr61.html)
+**2017.08.12｜「逆风飞翔」　作曲・編曲**
 
-### VRChat映画『宇宙船からのSOS！』
+紫合ユウ名義です。中国の女性アイドルグループ「1931女子偶像组合」のアルバム『星火盛放』に収録されています。
 
-**主題歌「thinKING ALIEN」— 共同編曲・ストリングスアレンジ**
+[楽曲情報・クレジット（酷狗音楽）](https://www.kugou.com/mixsong/14rxdr61.html) · [楽曲情報（百度百科）](https://baike.baidu.com/item/%E9%80%86%E9%A3%8E%E9%A3%9E%E7%BF%94/60849687) · [アルバム発売情報](https://wapbaike.baidu.com/item/1931/4600781)
 
-Youta Hilono（RiriMoo）名義で参加しました。同作のエンディング楽曲が、第2回VRCムービーアワード「音響音楽賞」にノミネートされました。
+**2024.01.27｜「thinKING ALIEN」　共同編曲・ストリングスアレンジ**
 
-[作品](https://www.youtube.com/watch?v=SzzDjXKkR6M) · [制作クレジット](https://smartphonefilmfestival.jimdofree.com/2024%E5%B9%B4%E5%BF%9C%E5%8B%9F%E4%BD%9C%E5%93%81/%E3%83%A1%E3%82%BF%E3%83%90%E3%83%BC%E3%82%B9-ai%E9%83%A8%E9%96%80/) · [ノミネート紹介](https://vr-lifemagazine.com/4-19vrchatmovieaward2023/)
+Youta Hilono（RiriMoo）名義です。VRChat映画『宇宙船からのSOS！』のエンディング楽曲です。日付は映画本編の公開日です。
 
-作品や時期に応じて、複数の名義で制作しています。
+2024年4月に発表された第2回VRCムービーアワードの「音響音楽賞」で、共同ノミネートとして名前が掲載されました。
 
-## ソフトウェア開発
+[作品](https://www.youtube.com/watch?v=SzzDjXKkR6M) · [制作クレジット](https://smartphonefilmfestival.jimdofree.com/2024%E5%B9%B4%E5%BF%9C%E5%8B%9F%E4%BD%9C%E5%93%81/%E3%83%A1%E3%82%BF%E3%83%90%E3%83%BC%E3%82%B9-ai%E9%83%A8%E9%96%80/) · [映画公開日（制作元）](https://note.com/studiobagus/n/n86f5944e3760) · [ノミネート一覧](https://metacul-frontier.com/?p=11090)
 
-Rustを中心に、次のプロジェクトを開発しています。
+## ソフトウェア
 
-### [Epistesys](https://github.com/ViszCham/Epistesys)
+RustとPythonを学習中です。LLMの支援を受けながら、開発や検証を支えるツールを制作しています。Epistesysは実験的な研究プロジェクト、RepoSeiriは公開中の文書監査ツールです。
 
-LLMへの指示、判断の根拠、実行権限、検証結果を、モデルの外部で管理する実験的な研究プロジェクトです。長い指示や複雑なタスクに含まれる制約や未解決事項を追跡する仕組みを開発しています。
+### [Epistesys](https://github.com/ViszCham/Epistesys)（alpha）
 
-公開版はアルファ段階です。ハルシネーションの低減や長期タスクの信頼性向上については、今後、ベンチマークや独立評価で検証していきます。
+LLMへの指示、判断の根拠、実行権限、検証結果をモデルの外側で管理し、長い指示や複雑なタスクに含まれる制約と未解決事項を追跡する研究プロジェクトです。
+
+ハルシネーションの低減や長期タスクの信頼性向上といったEpistesys固有の研究効果は、未検証です。評価計画は文書化済みですが、まだ実行していません。
 
 ### [RepoSeiri](https://github.com/ViszCham/RepoSeiri)
 
-READMEの記述と、Rustの公開APIやリポジトリ内の文書から確認できる情報を照合する、Rust製の文書監査ツールです。
+READMEの記述を、Rustの公開APIやリポジトリ内の文書と照合する文書監査ツールです。
 
-説明されていない機能、根拠より強い表現、解析できず判断を保留する箇所を整理します。変更前後の意味の変化も比較し、CLIとCodexプラグインを通じてレビュー用の情報を提示します。
+説明のない機能や、根拠より強い表現、判断を保留した箇所を整理します。変更前後の意味の差分も比較し、CLIとCodexプラグインからレビュー用の情報を出力します。
