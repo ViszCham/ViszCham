@@ -43,11 +43,15 @@ Youta Hilono（RiriMoo）名義です。VRChat映画『宇宙船からのSOS！�
 
 RustとPythonを学習中です。LLMの支援を受けながら、自分の開発を支えるツールを制作しています。
 
-### [Epistesys](https://github.com/ViszCham/Epistesys)（Beta 6.9）
+### [Epistesys](https://github.com/ViszCham/Epistesys)（Beta-7.1）
 
-コードの変更を、元の要求と検証結果に結び付ける開発支援ツールです。「依頼した条件が残っているか」「追加した機能が実際に呼ばれるか」「何を確認して完了としたのか」を、後からコードとテストに戻って確かめるために制作しています。
+AIとの対話で整理した条件を、実装・検証・修復につなぐ開発支援ツールです。依頼した条件と、対応するコード・検証結果を結び付け、「どの版で、何を確かめたか」を追いやすくします。
 
-現在の版は、開発途中のソースを保存したスナップショットで、利用には手元でのビルドが必要です。開発の失敗をどれだけ減らせるかは、まだ検証していません。
+仕様の相談では、守りたい条件や未決定の点を整理します。コーディングでは、ビルド、登録された公開APIの呼び出し、受入条件などを分けて確認し、変更後の再検証や作業の再開を支援します。こうした開発手順の一部を、Rustの型と状態遷移で扱っています。
+
+解析できなかった条件や不足する検証は、未確認として残します。現在の対応範囲と確認済みの内容は、文書にまとめています。
+
+[会話・コーディング支援の具体例](https://github.com/ViszCham/Epistesys/blob/main/docs/coding-and-conversation-assistance.md#日本語) · [実行ガイド](https://github.com/ViszCham/Epistesys/blob/main/docs/execution-guide.md#日本語) · [Beta-7.1の変更と確認範囲](https://github.com/ViszCham/Epistesys/blob/main/docs/epistesys-7.1.0-beta.1-release-notes-2026-11-06.md#日本語)
 
 ### [RepoSeiri](https://github.com/ViszCham/RepoSeiri)（v1.1.0）
 
